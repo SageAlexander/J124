@@ -34,14 +34,28 @@ _Let's **combine** bold and italics_
 2. reference the file in your Markdown
 3. Be sure to add an alt text description to your image
 
-![Name of the image][File path to the image]
-Format: ![Alt text](url)
+!['Name I give the images image', 'Alt Text describes image'][/File path to the image OR image url]
 
 
+!['IMG_0491.CR2.jpg', 'Noni Flower'](/IMG_0491.CR2.jpg)
 
 ![Noni][/IMG_0491.CR2.jpg]
-Format: ![Noni Flower](url)
+Format: ![Noni Flower](url)!
+
+'one line of code'
+
+'''
+multiple lines of code in a code block
+'''
+
+*this is a link*
+[Google](https://www.google.com/)
 
 
+*This is a blockquote*
+In the wise words of Blackstreet from "No Diggity":
+
+> Shawty get down
+> good lord
 
 
